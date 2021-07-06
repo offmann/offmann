@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @offmann
 - I’m interested in Machine Learning : from ideation to engineering
-- I’m currently learning MLops 
+- I’m currently learning MLOps and CI/CD for ML pipelines
 - I’m looking to collaborate on everything in between
 - How to reach me : https://www.linkedin.com/in/othmanbouzahzah/
 
