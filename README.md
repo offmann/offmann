@@ -9,7 +9,7 @@ My involvement (for now) consists on managing a personal portfolio and navigatin
 Outside of ML and the cryptoverse, I like philosophy and languages and I don't mind silly questions
 
 
-- How to reach me : https://www.linkedin.com/in/othmanbouzahzah/
+How to reach me : https://www.linkedin.com/in/othmanbouzahzah/
 
 <!---
 offmann/offmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
