@@ -1,13 +1,10 @@
-My main area of expertise is data science / machine learning.  
-I worked mostly on DS projects for behavioural marketing : predictions, clustering and nlp. 
-I have been involved in different stages of projects lifecycle : use cases ideation, data gathering, model development, mlops & to a lesser degree CI/CD (as it's an emergent interest). 
-Technical stack : python/sql, hortonworks, aws, gcp. 
+With an expertise in data science and machine learning, I have a keen interest in marketing and product UX design. My experience encompasses a range of data science projects, including behavioral marketing and data-driven UX optimization, spanning various stages of the project lifecycle, from ideation and data processing to model development and MLOps.
 
-In a parallel life, I'm excited about blockchain technology and its different uses cases.  
-My involvement (for now) consists on managing a personal portfolio and navigating the "cryptoverse" with different lenses : fundamentals, technicals, trading bots, on-chain analytics...etc. I keep on learning about these topics everyday. This journey is young (started 1 year ago), let's see where I land.  
+Proficient in technical stacks such as Python/SQL, GCP (VertexAI, BigQuery, Data Studio), AWS (SageMaker, Redshift), and PowerBI, I am well-equipped to manage and deliver data science projects of varying complexities.
 
-Outside of ML and the cryptoverse, I like philosophy and languages and I don't mind silly questions.  
+Beyond data science, I have been intrigued by blockchain technology and its potential use cases, particularly after reflecting on Bitcoin's impact on money, ownership, value, governance, and fairness. I'm navigating this space using different lenses, including fundamentals, technicals, trading bots, and on-chain analytics. This is a learning journey that I am committed to, and I am eager to see where it takes me.
 
+Apart from my technical pursuits, I have a passion for philosophy and languages and welcome any opportunity to explore quirky questions.
 
 How to reach me : https://www.linkedin.com/in/othmanbouzahzah/.   
 
