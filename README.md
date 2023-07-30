@@ -8,7 +8,6 @@ Apart from my technical pursuits, I have a passion for philosophy and languages 
 
 How to reach me : https://www.linkedin.com/in/othmanbouzahzah/.   
 
-[![Offman's GitHub stats](https://github-readme-stats.vercel.app/api?username=offmann)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 offmann/offmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
