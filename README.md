@@ -2,7 +2,7 @@ With an expertise in data science and machine learning, I have a keen interest i
 
 Proficient in technical stacks such as Python/SQL, GCP (VertexAI, BigQuery, Data Studio), AWS (SageMaker, Redshift), and PowerBI, I am well-equipped to manage and deliver data science projects of varying complexities.
 
-Lately I have been heavily involved in building apps on top of Large Language Models using LangChain and LLamaIndex : semantic search engines, text-to-sql, augmented information retrieval
+In the last year, I have been heavily involved in building apps on top of LLMs : semantic search engines, text-to-sql, retrieval augmented generation
 
 Apart from my technical pursuits, I have a passion for philosophy and languages and welcome any opportunity to explore quirky questions.
 
